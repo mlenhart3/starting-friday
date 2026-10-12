@@ -1,0 +1,18 @@
+{
+  "id": "next-generation-leader",
+  "title": "Next Generation Leader",
+  "status": "past",
+  "hideDates": true,
+  "endDate": "2026-02-06",
+  "summary": "Five essentials for leaders (courage, clarity, competence, coaching, and character) with an emphasis on building what lasts.",
+  "book": {
+    "title": "Next Generation Leader",
+    "author": "Andy Stanley",
+    "links": [
+      {
+        "label": "Amazon",
+        "url": "https://www.amazon.com/Next-Generation-Leader-Essentials-Future/dp/1590525396"
+      }
+    ]
+  }
+}

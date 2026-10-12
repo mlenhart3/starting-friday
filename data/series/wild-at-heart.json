@@ -1,0 +1,18 @@
+{
+  "id": "wild-at-heart",
+  "title": "Wild at Heart",
+  "status": "past",
+  "hideDates": true,
+  "endDate": "2024-12-20",
+  "summary": "Eldredge argues that men are made with a desire for adventure, a battle to fight, and a beauty to rescue, and calls them to live from their God-given strength instead of settling for a safe, passive faith.",
+  "book": {
+    "title": "Wild at Heart",
+    "author": "John Eldredge",
+    "links": [
+      {
+        "label": "Amazon",
+        "url": "https://www.amazon.com/s?k=Wild+at+Heart+John+Eldredge"
+      }
+    ]
+  }
+}

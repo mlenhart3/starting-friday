@@ -151,3 +151,6 @@ section { margin: 3rem 0; }
   .week summary::after { content: none; }
 }
 :focus-visible { outline: 3px solid var(--dawn); outline-offset: 2px; }
+
+.history li.nodate { display: block; }
+.history li.nodate .text-link { margin-right: 14px; }

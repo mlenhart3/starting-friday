@@ -172,13 +172,14 @@
       var d = parseDate(s.startDate), e = parseDate(s.endDate);
       var range = monthYear(d) === monthYear(e) ? monthYear(d) : monthYear(d) + " – " + monthYear(e);
       var hasGuide = s.sessions && s.sessions.length;
-      return el("li", {}, [
-        el("div", { "class": "h-when", text: range }),
+      return el("li", { "class": s.hideDates ? "nodate" : "" }, [
+        s.hideDates ? null : el("div", { "class": "h-when", text: range }),
         el("div", {}, [
           el("strong", { text: s.title }),
           s.book ? el("span", { "class": "muted", text: " · " + s.book.author }) : null,
           s.summary ? el("p", { "class": "small", text: s.summary }) : null,
-          hasGuide ? seriesLink(s, "View the guide", "text-link") : null
+          hasGuide ? seriesLink(s, "View the guide", "text-link") : null,
+          (s.book && s.book.links && s.book.links.length) && s.status === "past" ? el("a", { href: s.book.links[0].url, "class": "text-link", target: "_blank", rel: "noopener", text: "Order the book" }) : null
         ])
       ]);
     })));

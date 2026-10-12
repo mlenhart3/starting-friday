@@ -1,0 +1,18 @@
+{
+  "id": "tactics",
+  "title": "Tactics",
+  "status": "past",
+  "hideDates": true,
+  "endDate": "2025-04-01",
+  "summary": "A practical game plan for discussing your Christian convictions without being combative: ask good questions and steer the conversation.",
+  "book": {
+    "title": "Tactics",
+    "author": "Gregory Koukl",
+    "links": [
+      {
+        "label": "Amazon",
+        "url": "https://www.amazon.com/dp/0310101468"
+      }
+    ]
+  }
+}

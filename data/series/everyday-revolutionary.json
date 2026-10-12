@@ -1,0 +1,18 @@
+{
+  "id": "everyday-revolutionary",
+  "title": "Everyday Revolutionary",
+  "status": "past",
+  "hideDates": true,
+  "endDate": "2026-05-29",
+  "summary": "Ordinary people, not just professional ministers, are meant to carry the gospel into daily life through relationships and work.",
+  "book": {
+    "title": "Everyday Revolutionary",
+    "author": "JD Greear",
+    "links": [
+      {
+        "label": "Amazon",
+        "url": "https://www.amazon.com/s?k=Everyday+Revolutionary+JD+Greear"
+      }
+    ]
+  }
+}

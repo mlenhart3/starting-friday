@@ -1,0 +1,18 @@
+{
+  "id": "visioneering",
+  "title": "Visioneering",
+  "status": "past",
+  "hideDates": true,
+  "endDate": "2025-06-20",
+  "summary": "Using Nehemiah, Stanley shows how to discover, develop, and stick with a God-given vision for your life, work, and family.",
+  "book": {
+    "title": "Visioneering",
+    "author": "Andy Stanley",
+    "links": [
+      {
+        "label": "Amazon",
+        "url": "https://www.amazon.com/Visioneering-Blueprint-Developing-Maintaining-Vision/dp/B0043GXY4Q"
+      }
+    ]
+  }
+}

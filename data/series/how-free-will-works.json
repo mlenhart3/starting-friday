@@ -1,0 +1,18 @@
+{
+  "id": "how-free-will-works",
+  "title": "How Free Will Works",
+  "status": "past",
+  "hideDates": true,
+  "endDate": "2025-09-01",
+  "summary": "Explores how much of our behavior is driven by habit and impulse, and offers practical ways to make real choices instead.",
+  "book": {
+    "title": "How Free Will Works",
+    "author": "Dovid Lieberman",
+    "links": [
+      {
+        "label": "Amazon",
+        "url": "https://www.amazon.com/Free-Will-Works-Dovid-Lieberman/dp/1680250280"
+      }
+    ]
+  }
+}
