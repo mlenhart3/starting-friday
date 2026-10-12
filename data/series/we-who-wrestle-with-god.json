@@ -1,0 +1,523 @@
+{
+  "id": "we-who-wrestle-with-god",
+  "title": "We Who Wrestle with God",
+  "subtitle": "Perceptions of the Divine",
+  "status": "current",
+  "startDate": "2026-10-16",
+  "endDate": "2027-03-26",
+  "time": "7:45–8:30 AM",
+  "summary": "A 21-week walk through Jordan B. Peterson’s book, reading the stories of Genesis, Exodus, and Jonah alongside Scripture. Most weeks ask for 20 to 30 pages; none ask for more than 30.",
+  "book": {
+    "title": "We Who Wrestle with God",
+    "subtitle": "Perceptions of the Divine",
+    "author": "Jordan B. Peterson",
+    "format": "Hardcover, about 506 pages (week-by-week page numbers follow the hardcover table of contents)",
+    "links": [
+      {
+        "label": "Amazon",
+        "url": "https://www.amazon.com/s?k=We+Who+Wrestle+with+God+Jordan+Peterson"
+      },
+      {
+        "label": "Bookshop.org",
+        "url": "https://bookshop.org/search?keywords=We+Who+Wrestle+with+God+Peterson"
+      },
+      {
+        "label": "Barnes & Noble",
+        "url": "https://www.barnesandnoble.com/s/We+Who+Wrestle+with+God+Peterson"
+      }
+    ]
+  },
+  "notes": [
+    "Skipped Fridays: Nov 27 (day after Thanksgiving), Dec 25, and Jan 1.",
+    "Page numbers come from the hardcover table of contents. The Foreshadowing starts at page xv and its length isn’t shown, so Week 1 may run longer than 10 pages.",
+    "Section 8.2 has no subheadings, so the splits at pages 424 and 445 are suggestions. Adjust them to natural pauses in your copy.",
+    "Mar 26 is Good Friday. If the group would rather skip it, the final week moves to Apr 2.",
+    "The discussion questions are drafted from chapter and section titles and the Bible passages. Leaders should adjust them after doing the reading."
+  ],
+  "leaderTips": {
+    "intro": "A leader needs about an hour of prep: read the pages and the scripture, then pick three or four questions to keep the discussion inside 45 minutes.",
+    "agenda": [
+      {
+        "time": "7:45",
+        "what": "Welcome and opening prayer",
+        "minutes": "5 min"
+      },
+      {
+        "time": "7:50",
+        "what": "Read the key passage aloud and summarize the week’s pages",
+        "minutes": "10 min"
+      },
+      {
+        "time": "8:00",
+        "what": "Discussion",
+        "minutes": "20–25 min"
+      },
+      {
+        "time": "8:25",
+        "what": "One takeaway each, closing prayer",
+        "minutes": "5 min"
+      }
+    ],
+    "note": "Peterson reads these stories through psychology and myth. Invite the group to test his ideas against the biblical text and their own tradition rather than accept or reject them whole. The questions are starting points, so replace any that don’t fit your group."
+  },
+  "sessions": [
+    {
+      "week": 1,
+      "date": "2026-10-16",
+      "leader": "Mike",
+      "title": "Creative Spirit",
+      "reading": [
+        "Foreshadowing: The Still, Small Voice",
+        "1.1 God as creative spirit",
+        "1.2 The spirit of man in the highest place"
+      ],
+      "pages": "xv–10",
+      "scripture": [
+        "Genesis 1:1–2:3",
+        "1 Kings 19:9–13"
+      ],
+      "questions": [
+        "Genesis 1 shows God bringing order out of chaos by speaking. What does it mean that words carry creative power? Compare John 1:1–3.",
+        "Elijah finds God in a still, small voice after the wind, earthquake, and fire. When have you recognized conscience as God’s voice rather than your own?",
+        "Peterson reads Scripture through psychology and myth. Where does that help you see the text fresh, and where do you want to test it against your own tradition?"
+      ]
+    },
+    {
+      "week": 2,
+      "date": "2026-10-23",
+      "leader": "Justin",
+      "title": "In God’s Image",
+      "reading": [
+        "1.3 The real and its representation",
+        "1.4 Eve from Adam",
+        "1.5 In God’s image"
+      ],
+      "pages": "11–38",
+      "scripture": [
+        "Genesis 1:26–28",
+        "Genesis 2:18–25",
+        "John 1:1–5"
+      ],
+      "questions": [
+        "Humanity is made in God’s image (Gen 1:26–27). What responsibility comes with that, at work and at home?",
+        "God says it is not good for the man to be alone (2:18). What was missing, and what does Eve’s arrival tell us about how men are made for others?",
+        "Genesis gives two creation accounts. What does the second one add to the first?",
+        "Peterson speaks of the real and its representation. How do the words and images we take in shape what we see as real?"
+      ]
+    },
+    {
+      "week": 3,
+      "date": "2026-10-30",
+      "leader": "Berry",
+      "title": "The Garden, Pride, and the Serpent",
+      "reading": [
+        "2.1 The image of God in the eternal garden",
+        "2.2 Pride versus the sacred moral order",
+        "2.3 The incompleteness of Adam and the arrival of Eve",
+        "2.4 The eternal sins of Eve and Adam",
+        "2.5 The eternal serpent"
+      ],
+      "pages": "39–63",
+      "scripture": [
+        "Genesis 2:15–3:7",
+        "Proverbs 16:18",
+        "Revelation 12:9"
+      ],
+      "questions": [
+        "What does it mean to “work and keep” the garden (2:15), and how does that shape how we think about our jobs?",
+        "Peterson sets pride against the sacred moral order. Where do men face the temptation to put themselves at the center?",
+        "The serpent doesn’t deny God. It questions what God said (3:1). Where do we hear that same voice today?",
+        "Adam is “with her” (3:6) yet says nothing. What does that suggest about a man’s responsibility to speak up?"
+      ]
+    },
+    {
+      "week": 4,
+      "date": "2026-11-06",
+      "leader": "Tim",
+      "title": "Suffering and the Loss of Paradise",
+      "reading": [
+        "2.6 Naked suffering as the fruit of sin",
+        "2.7 Loss of Paradise and the flaming sword"
+      ],
+      "pages": "64–88",
+      "scripture": [
+        "Genesis 3:8–24",
+        "Romans 5:12–19"
+      ],
+      "questions": [
+        "Adam blames Eve and God (3:12). How do we deflect blame in our own lives?",
+        "God clothes Adam and Eve before sending them out (3:21). What does that say about God’s character after the Fall?",
+        "Is the flaming sword at Eden’s gate judgment, protection, or both?",
+        "Paul sets Adam beside Christ in Romans 5. What does the comparison add to Peterson’s reading of the Fall?"
+      ]
+    },
+    {
+      "week": 5,
+      "date": "2026-11-13",
+      "leader": "Ernie",
+      "title": "Sacrifice, Work, and the Good Shepherd",
+      "reading": [
+        "3.1 The identity of sacrifice and work",
+        "3.2 The hostile brothers of good and evil",
+        "3.3 The sacred patterning of the political",
+        "3.4 The good shepherd as archetypal leader"
+      ],
+      "pages": "89–112",
+      "scripture": [
+        "Genesis 4:1–4",
+        "John 10:11–15",
+        "Psalm 23"
+      ],
+      "questions": [
+        "Cain tills the ground and Abel keeps flocks. What does it say that both brothers’ work is bound up with offering something to God?",
+        "Peterson ties sacrifice to work. In what ways is your daily work an offering, and to what or whom?",
+        "Peterson calls the good shepherd an archetype of leadership. How does that connect to Jesus in John 10, and to men who lead at home or at work?",
+        "Why do these stories keep pairing two brothers, one headed toward good and one toward evil?"
+      ]
+    },
+    {
+      "week": 6,
+      "date": "2026-11-20",
+      "leader": "Jason",
+      "title": "The Sacrifice God Accepts",
+      "reading": [
+        "3.5 The sacrifice pleasing to God",
+        "3.6 Creatively possessed by the spirit of resentment",
+        "3.7 Humility and faith versus pride, despair, and vengeful anger"
+      ],
+      "pages": "113–140",
+      "scripture": [
+        "Genesis 4:3–8",
+        "Hebrews 11:4",
+        "1 John 3:11–12"
+      ],
+      "questions": [
+        "Why was Abel’s offering accepted and Cain’s not? What does God’s question in 4:7 (“If you do well, will you not be accepted?”) suggest?",
+        "Cain is consumed by resentment. Where do you see resentment take root in yourself, and what helps?",
+        "God warns that sin is crouching at the door (4:7). What practices keep us from being mastered by it?",
+        "Peterson contrasts humility and faith with pride, despair, and vengeful anger. Which of those is the biggest pull for you?"
+      ]
+    },
+    {
+      "week": 7,
+      "date": "2026-12-04",
+      "leader": "Peter",
+      "title": "Fratricide and the Return of Chaos",
+      "reading": [
+        "3.8 Fratricide, then worse",
+        "4.1 Giants in the land",
+        "4.2 Sin and the return of chaos"
+      ],
+      "pages": "141–165",
+      "scripture": [
+        "Genesis 4:8–26",
+        "Genesis 6:1–8"
+      ],
+      "questions": [
+        "Cain answers God with “Am I my brother’s keeper?” (4:9). How would you answer that question today?",
+        "God marks Cain so no one will kill him (4:15). What does that mercy toward a murderer teach us?",
+        "Lamech boasts of greater vengeance than Cain (4:23–24). How does sin escalate from one generation to the next?",
+        "Genesis 6:1–4 is one of the strangest passages in the Bible. What do you make of it, and how does Peterson use it?",
+        "Genesis 6:6 says God was grieved. What does it mean that our sin affects God?"
+      ]
+    },
+    {
+      "week": 8,
+      "date": "2026-12-11",
+      "leader": "Kivett",
+      "title": "Noah and the Call to Prepare",
+      "reading": [
+        "4.3 Salvation by the wise and the reestablishment of the world",
+        "4.4 The faithless son doomed to enslavement"
+      ],
+      "pages": "166–190",
+      "scripture": [
+        "Genesis 6:9–9:29",
+        "Hebrews 11:7"
+      ],
+      "questions": [
+        "Noah prepared for a flood no one else saw coming. What are we called to prepare for, and what does faithful preparation look like?",
+        "God sets a rainbow as a covenant sign (9:12–17). What is He promising, and what are we promised in return?",
+        "Ham’s treatment of his father (9:20–27) is a puzzling story. What does it say about honor, shame, and family?",
+        "Peterson calls Noah “wise.” What does wisdom look like in a man who builds before the rain?"
+      ]
+    },
+    {
+      "week": 9,
+      "date": "2026-12-18",
+      "leader": "Robert",
+      "title": "The Tower and Pride",
+      "reading": [
+        "5.1 Lucifer and the engineers",
+        "5.2 Pride and the fall, reprise: Descent into hell itself"
+      ],
+      "pages": "191–216",
+      "scripture": [
+        "Genesis 11:1–4",
+        "Isaiah 14:12–15",
+        "Proverbs 16:18"
+      ],
+      "questions": [
+        "The builders at Babel want to “make a name for ourselves” (11:4). Is ambition itself the problem, or its aim? Where is the line?",
+        "Peterson links Babel to Lucifer and engineers. How do technology and expertise tempt us to think we no longer need God?",
+        "Isaiah 14 describes pride’s fall from heaven. How does the pattern of pride, then fall, repeat across the stories we’ve read so far?",
+        "Where have you seen a well-built system or institution lose its purpose because it stopped answering to anything higher?"
+      ]
+    },
+    {
+      "week": 10,
+      "date": "2027-01-08",
+      "leader": "Jon",
+      "title": "Babel Falls",
+      "reading": [
+        "5.3 Inability to understand one another",
+        "5.4 God, or else"
+      ],
+      "pages": "217–240",
+      "scripture": [
+        "Genesis 11:5–9",
+        "Acts 2:1–12"
+      ],
+      "questions": [
+        "God confuses the languages and scatters the builders (11:7–8). Is that judgment, mercy, or both?",
+        "Pentecost seems to reverse Babel. How does the Spirit make understanding possible where pride made it impossible?",
+        "Why is it so hard for people to understand each other today, even inside the same church or family?",
+        "Peterson’s section title says “God, or else.” When God is removed as our highest aim, what tends to take His place (career, tribe, ideology, comfort)?"
+      ]
+    },
+    {
+      "week": 11,
+      "date": "2027-01-15",
+      "leader": "Luke",
+      "title": "Abraham Hears the Call",
+      "reading": [
+        "6.1 Go forth",
+        "6.2 The devil at the crossroads"
+      ],
+      "pages": "241–266",
+      "scripture": [
+        "Genesis 12:1–9",
+        "Hebrews 11:8–10"
+      ],
+      "questions": [
+        "God tells Abram to leave country, kin, and father’s house (12:1). What did he have to give up, and what did he receive?",
+        "What have you had to leave behind to follow a calling? What was the cost?",
+        "Peterson speaks of the devil at the crossroads. Where are the decision points in a man’s life where the easy path is most tempting?",
+        "Abram is blessed to be a blessing to all families of the earth (12:3). What is our responsibility to people beyond our own household?"
+      ]
+    },
+    {
+      "week": 12,
+      "date": "2027-01-22",
+      "leader": "Jason",
+      "title": "Secession and New Names",
+      "reading": [
+        "6.3 Life as sacrificial secession",
+        "6.4 Sex and parasitism",
+        "6.5 Sacrifice and transformation of identity: Abram, Sarai, and Jacob"
+      ],
+      "pages": "267–292",
+      "scripture": [
+        "Genesis 12:10–20",
+        "Genesis 13:1–13",
+        "Genesis 17:1–8",
+        "Genesis 32:22–32"
+      ],
+      "questions": [
+        "In Egypt, Abram lets fear lead him to pass Sarai off as his sister (12:10–20). How does fear undermine faith, and how does it damage the people closest to us?",
+        "Abram and Lot part ways (Genesis 13). What does it cost to separate from a good thing in order to follow a better one?",
+        "Abram becomes Abraham, Sarai becomes Sarah, and Jacob becomes Israel. Why do the names change, and what does that say about identity and calling?",
+        "Jacob wrestles through the night at the Jabbok and walks away limping (32:22–32). The book takes its title from this. What does it mean to wrestle with God and be changed by it?"
+      ]
+    },
+    {
+      "week": 13,
+      "date": "2027-01-29",
+      "leader": "Kivett",
+      "title": "The Pinnacle of Sacrifice",
+      "reading": [
+        "6.6 With the angels into the abyss",
+        "6.7 The pinnacle of sacrifice"
+      ],
+      "pages": "293–316",
+      "scripture": [
+        "Genesis 18:16–33",
+        "Genesis 22:1–19",
+        "Hebrews 11:17–19"
+      ],
+      "questions": [
+        "Abraham bargains with God over Sodom (18:22–33). How much room do we have to argue with God?",
+        "Genesis 22 is the hardest passage in the Abraham story. What does Abraham’s obedience teach?",
+        "“God will provide the lamb” (22:8). What does that line point to, and how does John 3:16 change how we read the story?",
+        "What is the Isaac in your own life, the good gift that is hardest to hold with an open hand?"
+      ]
+    },
+    {
+      "week": 14,
+      "date": "2027-02-05",
+      "leader": "Alex",
+      "title": "Moses and the Burning Bush",
+      "reading": [
+        "7.1 The Jews as unwelcome sojourners and slaves",
+        "7.2 The fiery tree as revelation of being and becoming",
+        "7.3 Return to the tyrannical kingdom"
+      ],
+      "pages": "317–343",
+      "scripture": [
+        "Exodus 1:1–14",
+        "Exodus 3:1–15",
+        "Exodus 4:10–17"
+      ],
+      "questions": [
+        "God gives His name at the bush as “I AM WHO I AM” (3:14). What does that name tell us about who God is?",
+        "The bush burns but is not consumed. What picture of God’s presence does that give us?",
+        "Moses offers excuses (3:11; 4:10). What excuses do we give when we sense a call, and how does God answer Moses?",
+        "Israel begins as a people living as strangers and slaves in a foreign land. What does it mean for believers today to live as sojourners?"
+      ]
+    },
+    {
+      "week": 15,
+      "date": "2027-02-12",
+      "leader": "Berry",
+      "title": "Doubling Down and the Wilderness",
+      "reading": [
+        "7.4 Back to the land of doubling down",
+        "7.5 The inevitable interregnum of chaos and the guiding spirit"
+      ],
+      "pages": "344–373",
+      "scripture": [
+        "Exodus 5:1–23",
+        "Exodus 13:17–14:31"
+      ],
+      "questions": [
+        "When Moses first confronts Pharaoh, the burdens get heavier (Exodus 5). Why does obedience sometimes make things worse before it gets better?",
+        "God leads Israel the long way around rather than the short route (13:17–18). Why? What is the “in between” stretch in your own life right now?",
+        "Pharaoh hardens his heart again and again. How does a person or a culture double down on a bad course?",
+        "The pillar of cloud and fire guides Israel day and night (13:21). How does God guide us when there’s no clear map?"
+      ]
+    },
+    {
+      "week": 16,
+      "date": "2027-02-19",
+      "leader": "Alex",
+      "title": "Order and the Commandments",
+      "reading": [
+        "7.6 The subsidiary state as alternative to tyranny and slavery",
+        "7.7 The Commandments as explicit revelation of custom"
+      ],
+      "pages": "374–402",
+      "scripture": [
+        "Exodus 18:13–27",
+        "Exodus 19:1–6",
+        "Exodus 20:1–17",
+        "Romans 2:14–15"
+      ],
+      "questions": [
+        "Jethro advises Moses to appoint leaders over thousands, hundreds, fifties, and tens (Exodus 18). How does spreading authority protect a community from tyranny?",
+        "Peterson argues the Commandments make explicit what was already custom. Do you experience them as written on the conscience (Romans 2:14–15), or mainly as rules from outside?",
+        "Which commandment is hardest for men today to take seriously, and why?",
+        "Israel is free but not yet formed. What does it take to move from freedom from something to freedom for something?"
+      ]
+    },
+    {
+      "week": 17,
+      "date": "2027-02-26",
+      "leader": "Jon",
+      "title": "The Golden Calf, Part 1",
+      "reading": [
+        "8.1 Materialism and orgiastic celebration",
+        "the start of 8.2 Desperate reestablishment of the covenant"
+      ],
+      "pages": "403–423",
+      "scripture": [
+        "Exodus 32:1–14"
+      ],
+      "questions": [
+        "Why did the people demand a god they could see while Moses was on the mountain? What do we reach for when God seems silent?",
+        "The people turn to feasting and revelry (32:6). What are the modern versions of materialism and indulgence for men in our setting?",
+        "God threatens to destroy the people, and Moses pleads for them (32:9–14). What does it mean that God hears intercession?",
+        "Why is idolatry so often a good thing made ultimate rather than an obviously bad thing?"
+      ]
+    },
+    {
+      "week": 18,
+      "date": "2027-03-05",
+      "leader": "Justin",
+      "title": "The Golden Calf, Part 2",
+      "reading": [
+        "8.2 Desperate reestablishment of the covenant, middle section"
+      ],
+      "pages": "424–444",
+      "scripture": [
+        "Exodus 32:15–35"
+      ],
+      "questions": [
+        "Moses breaks the tablets when he sees the calf (32:19). What does that act communicate, and is the anger righteous?",
+        "Aaron explains that he threw gold in the fire and “out came this calf” (32:24). How do we rationalize our own failures?",
+        "Moses offers to be blotted out for the people (32:30–32). What does intercession cost, and who are we standing in the gap for?",
+        "Where in this story do you see judgment, and where do you see mercy?"
+      ]
+    },
+    {
+      "week": 19,
+      "date": "2027-03-12",
+      "leader": "Robert",
+      "title": "Renewing the Covenant",
+      "reading": [
+        "8.2 Desperate reestablishment of the covenant, final section"
+      ],
+      "pages": "445–464",
+      "scripture": [
+        "Exodus 33:7–23",
+        "Exodus 34:1–10",
+        "optional: Numbers 20:1–13"
+      ],
+      "questions": [
+        "Moses asks to see God’s glory, and God answers by showing His goodness (33:18–19). What does that tell us about what we can know of God?",
+        "God describes Himself as compassionate and gracious, yet one who does not leave guilt unpunished (34:6–7). How do mercy and justice fit together?",
+        "After the calf, God renews the covenant and gives the tablets again. How do we begin again after a serious failure?",
+        "Optional: Moses strikes the rock instead of speaking to it (Numbers 20), and the consequence seems severe. What does this story say about pride in leaders? Skip this one if your pages for this week don’t cover it."
+      ]
+    },
+    {
+      "week": 20,
+      "date": "2027-03-19",
+      "leader": "Peter",
+      "title": "Jonah and the Abyss",
+      "reading": [
+        "Chapter 9 Jonah and the Eternal Abyss, up to 9.1"
+      ],
+      "pages": "465–487",
+      "scripture": [
+        "Jonah 1–2"
+      ],
+      "questions": [
+        "Why does Jonah run, and why toward Tarshish rather than Nineveh?",
+        "Jonah sleeps through the storm while the pagan sailors pray (1:5–6). What does that say about spiritual complacency?",
+        "Jonah goes down into the deep before God turns him around. What is a “descent” you’ve been through, and what did it change?",
+        "Jonah prays from inside the fish (Jonah 2). What does his prayer show about where he stands with God?"
+      ]
+    },
+    {
+      "week": 21,
+      "date": "2027-03-26",
+      "leader": "Tim",
+      "title": "Jonah Repents of His Virtue, and Wrap-Up",
+      "reading": [
+        "9.1 Jonah repents of his virtue",
+        "Conclusion"
+      ],
+      "pages": "488–506",
+      "scripture": [
+        "Jonah 3–4",
+        "Genesis 32:22–32"
+      ],
+      "questions": [
+        "Jonah is angry that God spared Nineveh (4:1–3). Peterson’s section title says Jonah “repents of his virtue.” How can being right turn into bitterness?",
+        "The book ends with God’s question about the people and animals of Nineveh (4:11). What does it say about God’s concern?",
+        "Looking back over the whole book: which story changed how you read Scripture, and where did you disagree with Peterson?",
+        "What does wrestling with God look like for you in the year ahead?"
+      ]
+    }
+  ]
+}

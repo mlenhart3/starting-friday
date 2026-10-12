@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Starting Friday</title>
+  <meta name="description" content="Friday Morning Men’s Group: study series, reading schedules, and history.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Ccircle cx=%2716%27 cy=%2722%27 r=%279%27 fill=%27%23e8903a%27/%3E%3Crect y=%2722%27 width=%2732%27 height=%2710%27 fill=%27%231c2b43%27/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="sun" aria-hidden="true"></div>
+    <div class="wrap hero-inner">
+      <p class="eyebrow">Friday Morning Men’s Group</p>
+      <h1>Starting Friday</h1>
+      <p class="tagline">Good books. Hard questions. Early coffee.</p>
+      <nav class="topnav" aria-label="Sections">
+        <a href="#current">Current study</a>
+        <a href="#books">Books</a>
+        <a href="#history">History</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section id="next" aria-live="polite"></section>
+
+    <section id="current">
+      <h2>Current study</h2>
+      <div id="current-body"><p class="muted">Loading…</p></div>
+    </section>
+
+    <section id="books">
+      <h2>Order the books</h2>
+      <p class="muted">Search links, so you can pick your favorite seller. Library and used copies work great too.</p>
+      <div id="books-body" class="card-grid"></div>
+    </section>
+
+    <section id="history">
+      <h2>Previous studies</h2>
+      <div id="history-body"></div>
+    </section>
+  </main>
+
+  <footer class="wrap site-footer">
+    <p>Starting Friday · Friday Morning Men’s Group</p>
+  </footer>
+  <script src="assets/app.js"></script>
+  <script>StartingFriday.home();</script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+{
+  "id": "short-name-with-dashes",
+  "title": "Book or Study Title",
+  "subtitle": "Optional subtitle",
+  "status": "upcoming",
+  "startDate": "2027-04-09",
+  "endDate": "2027-06-11",
+  "time": "7:45–8:30 AM",
+  "summary": "One or two sentences about the study.",
+  "book": {
+    "title": "Book Title",
+    "author": "Author Name",
+    "format": "Optional: edition or page-count note",
+    "links": [
+      { "label": "Amazon", "url": "https://www.amazon.com/s?k=Book+Title+Author" },
+      { "label": "Bookshop.org", "url": "https://bookshop.org/search?keywords=Book+Title+Author" }
+    ]
+  },
+  "notes": [
+    "Optional notes shown on the series page, such as skipped Fridays."
+  ],
+  "sessions": [
+    {
+      "week": 1,
+      "date": "2027-04-09",
+      "leader": "First name",
+      "title": "Short theme for the week",
+      "reading": ["Chapter 1"],
+      "pages": "1–30",
+      "scripture": ["John 1:1–18"],
+      "questions": [
+        "First discussion question?",
+        "Second discussion question?"
+      ]
+    }
+  ]
+}
